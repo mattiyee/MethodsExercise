@@ -1,0 +1,4 @@
+C:\Users\matti\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.csprojAssemblyReference.cache
+C:\Users\matti\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.AssemblyInfoInputs.cache
+C:\Users\matti\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.AssemblyInfo.cs
+C:\Users\matti\Desktop\repos\MethodsExercise\MethodsExercise\obj\Debug\netcoreapp3.1\MethodsExercise.csproj.CoreCompileInputs.cache
